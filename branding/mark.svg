@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="lezneve logo">
+  <rect width="128" height="128" rx="30" fill="#201d28"/>
+  <path d="M38 27v69h45" fill="none" stroke="#e8e3d9" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 29c-24 2-37 18-38 38 23-1 40-14 38-38Z" fill="#9faf8b"/>
+  <path d="M49 67c11-15 22-23 39-38" fill="none" stroke="#201d28" stroke-width="3" stroke-linecap="round"/>
+</svg>
